@@ -1,0 +1,59 @@
+{
+  "skill_categories": [
+    "Programming",
+    "SQL",
+    "Machine Learning",
+    "Deep Learning",
+    "Computer Vision",
+    "NLP",
+    "Statistics",
+    "Mathematics",
+    "Business Intelligence",
+    "Visualization",
+    "Cloud",
+    "Databases",
+    "DevOps",
+    "Data Engineering",
+    "Soft Skills",
+    "AI",
+    "Analytics"
+  ],
+  "career_skill_map": {
+    "Data Scientist": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Visualization"
+    ],
+    "ML Engineer": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "DevOps",
+      "AI"
+    ],
+    "Data Engineer": [
+      "Python",
+      "SQL",
+      "Data Engineering",
+      "Cloud",
+      "Databases"
+    ],
+    "AI Engineer": [
+      "Python",
+      "Deep Learning",
+      "NLP",
+      "Computer Vision",
+      "AI"
+    ],
+    "Data Analyst": [
+      "SQL",
+      "Business Intelligence",
+      "Visualization",
+      "Python",
+      "Statistics"
+    ]
+  },
+  "description": "Skill gap analysis is computed dynamically per user assessment"
+}

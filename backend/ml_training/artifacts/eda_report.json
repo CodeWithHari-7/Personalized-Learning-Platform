@@ -1,0 +1,54 @@
+{
+  "total_students": 10000,
+  "avg_cgpa": 7.484769,
+  "avg_courses_enrolled": 12.5262,
+  "avg_completion_rate": 0.33379477883571546,
+  "avg_score": 49.08335700000001,
+  "avg_skills": 5.4995,
+  "performance_distribution": {
+    "Low": 8969,
+    "Medium": 1021,
+    "High": 10
+  },
+  "top_departments": {
+    "Computer Science": 1709,
+    "Information Technology": 1683,
+    "Statistics": 1680,
+    "Business Analytics": 1664,
+    "Electrical Engineering": 1662,
+    "Data Science": 1602
+  },
+  "top_countries": {
+    "Singapore": 1485,
+    "Australia": 1471,
+    "USA": 1448,
+    "Canada": 1408,
+    "India": 1401,
+    "UK": 1395,
+    "Germany": 1392
+  },
+  "top_skill_categories": {
+    "SQL": 890,
+    "Soft Skills": 799,
+    "Cloud": 762,
+    "Machine Learning": 687,
+    "Programming": 675,
+    "Data Engineering": 666,
+    "Mathematics": 627,
+    "NLP": 608,
+    "Computer Vision": 594,
+    "Databases": 582
+  },
+  "recommended_category_distribution": {
+    "Data Engineering": 791,
+    "Soft Skills": 786,
+    "SQL": 676,
+    "Machine Learning": 662,
+    "NLP": 650,
+    "Deep Learning": 602,
+    "Programming": 599,
+    "DevOps": 598,
+    "Databases": 590,
+    "AI": 579
+  }
+}
